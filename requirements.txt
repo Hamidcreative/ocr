@@ -1,0 +1,11 @@
+flask
+pytesseract
+easyocr
+opencv-python
+pillow
+rapidfuzz
+numpy
+python-dotenv
+pdfplumber
+pdf2image
+
